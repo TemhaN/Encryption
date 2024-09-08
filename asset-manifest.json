@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/en%D1%81ryption/static/css/main.fd91921d.css",
-    "main.js": "/en%D1%81ryption/static/js/main.cd22794e.js",
-    "static/js/453.ef8a7298.chunk.js": "/en%D1%81ryption/static/js/453.ef8a7298.chunk.js",
-    "index.html": "/en%D1%81ryption/index.html",
-    "main.fd91921d.css.map": "/en%D1%81ryption/static/css/main.fd91921d.css.map",
-    "main.cd22794e.js.map": "/en%D1%81ryption/static/js/main.cd22794e.js.map",
-    "453.ef8a7298.chunk.js.map": "/en%D1%81ryption/static/js/453.ef8a7298.chunk.js.map"
+    "main.css": "/encryption/static/css/main.fd91921d.css",
+    "main.js": "/encryption/static/js/main.1b472565.js",
+    "static/js/453.ef8a7298.chunk.js": "/encryption/static/js/453.ef8a7298.chunk.js",
+    "index.html": "/encryption/index.html",
+    "main.fd91921d.css.map": "/encryption/static/css/main.fd91921d.css.map",
+    "main.1b472565.js.map": "/encryption/static/js/main.1b472565.js.map",
+    "453.ef8a7298.chunk.js.map": "/encryption/static/js/453.ef8a7298.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd91921d.css",
-    "static/js/main.cd22794e.js"
+    "static/js/main.1b472565.js"
   ]
 }
