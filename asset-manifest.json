@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecnryption/static/css/main.fd91921d.css",
+    "main.js": "/ecnryption/static/js/main.d15bb030.js",
+    "static/js/453.ef8a7298.chunk.js": "/ecnryption/static/js/453.ef8a7298.chunk.js",
+    "index.html": "/ecnryption/index.html",
+    "main.fd91921d.css.map": "/ecnryption/static/css/main.fd91921d.css.map",
+    "main.d15bb030.js.map": "/ecnryption/static/js/main.d15bb030.js.map",
+    "453.ef8a7298.chunk.js.map": "/ecnryption/static/js/453.ef8a7298.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd91921d.css",
+    "static/js/main.d15bb030.js"
+  ]
+}
